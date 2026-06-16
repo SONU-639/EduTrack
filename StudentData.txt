@@ -1,0 +1,13 @@
+STUDENT MANAGEMENT SYSTEM
+=========================================
+ID	NAME	COURSE	SEM	GRADE	EMAIL
+=========================================
+A1	Rahul	CSE	5	8.7	rahul123@gmail.com
+A2	Anjali	ECE	1	9.1	anjali123@gmail.com
+C3	Arjun	ME	7	9.7	arjun123@gmail.com
+D4	Anu	CE	4	9.1	anu23@gmail.com
+E5	Joy	CSE	5	6.7	joy23@gmail.com
+F2	alok	CSE	7	9.7	alok45@gmail.com
+H1	sonu	CSE	3	8.9	sonu23@gamail.com
+M2	hitler	CE	6	7.9	hit98@gmail.com
+S1	jubin	CSE	3	4.5	jubin23@gmail.com
